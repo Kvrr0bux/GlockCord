@@ -1,0 +1,2 @@
+# GlockCord
+Best Discord Client
